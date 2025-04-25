@@ -1,0 +1,12 @@
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\bin\Debug\net8.0\JWTAuth.Core.deps.json
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\bin\Debug\net8.0\JWTAuth.Core.dll
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\bin\Debug\net8.0\JWTAuth.Core.pdb
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.csproj.AssemblyReference.cache
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.AssemblyInfoInputs.cache
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.AssemblyInfo.cs
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.csproj.CoreCompileInputs.cache
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.dll
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\refint\JWTAuth.Core.dll
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.pdb
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\ref\JWTAuth.Core.dll

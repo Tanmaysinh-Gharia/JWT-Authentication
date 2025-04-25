@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\middlewares\\autorefreshtokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\middlewares\\autorefreshtokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\helpers\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\helpers\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\authentication\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\authentication\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\swagger\\addrefreshtokenheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\swagger\\addrefreshtokenheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\jwtauth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\jwtauth.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C4E0F74-3E2E-47BD-9041-E12F1FDEE50F}|JWTAuth\\JWTAuth.API.csproj|solutionrelative:jwtauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\common\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\common\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\dependencyregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\helpers\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\helpers\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\repositories\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\repositories\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\typefinders\\typefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\typefinders\\typefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\dependencyinjection\\idependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\dependencyinjection\\idependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\migrations\\20250423141506_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\migrations\\20250423141506_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\jwtauth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\jwtauth.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\jwtauth.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\jwtauth.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.core\\typefinders\\itypefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D08419-B9F3-4EDA-8E6E-3FE7D0F4E57B}|JWTAuth.Core\\JWTAuth.Core.csproj|solutionrelative:jwtauth.core\\typefinders\\itypefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\repositories\\refreshtokenrepo\\irefreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\repositories\\refreshtokenrepo\\irefreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\repositories\\refreshtokenrepo\\refreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\repositories\\refreshtokenrepo\\refreshtokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\repositories\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\repositories\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\jwtauth.bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\jwtauth.bussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.bussiness\\authentication\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26338C1-D745-4D82-9291-2672FDA78E77}|JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj|solutionrelative:jwtauth.bussiness\\authentication\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F0011B-16F2-4720-AF9F-F438011CC2B5}|JWTAuth.Services\\JWTAuth.Services.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F0011B-16F2-4720-AF9F-F438011CC2B5}|JWTAuth.Services\\JWTAuth.Services.csproj|solutionrelative:jwtauth.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|c:\\users\\tanmaysinhgharia\\source\\repos\\jwtauth\\jwtauth.data\\migrations\\20250423142855_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FBE829-4575-4A91-BE9C-9ACF61BED434}|JWTAuth.Data\\JWTAuth.Data.csproj|solutionrelative:jwtauth.data\\migrations\\20250423142855_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Helpers\\Hashing.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\Helpers\\Hashing.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Helpers\\Hashing.cs",
+              "RelativeToolTip": "JWTAuth.Core\\Helpers\\Hashing.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:54:45.957Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoRefreshTokenMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Middlewares\\AutoRefreshTokenMiddleware.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Middlewares\\AutoRefreshTokenMiddleware.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Middlewares\\AutoRefreshTokenMiddleware.cs",
+              "RelativeToolTip": "JWTAuth\\Middlewares\\AutoRefreshTokenMiddleware.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAMwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:22:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Common\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\Common\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Common\\JwtSettings.cs",
+              "RelativeToolTip": "JWTAuth.Core\\Common\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:51:41.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Helpers\\JwtGenerator.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\Helpers\\JwtGenerator.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\Helpers\\JwtGenerator.cs",
+              "RelativeToolTip": "JWTAuth.Core\\Helpers\\JwtGenerator.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:08:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWTAuth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:13:22.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRefreshTokenHeader.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Swagger\\AddRefreshTokenHeader.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Swagger\\AddRefreshTokenHeader.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Swagger\\AddRefreshTokenHeader.cs",
+              "RelativeToolTip": "JWTAuth\\Swagger\\AddRefreshTokenHeader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:41:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\Authentication\\AuthManager.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\Authentication\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\Authentication\\AuthManager.cs",
+              "RelativeToolTip": "JWTAuth.Bussiness\\Authentication\\AuthManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:03:56.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\Program.cs",
+              "RelativeToolTip": "JWTAuth\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:21:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "JWTAuth.Bussiness\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:52:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTAuth.API.csproj",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\JWTAuth.API.csproj",
+              "RelativeDocumentMoniker": "JWTAuth\\JWTAuth.API.csproj",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\JWTAuth.API.csproj",
+              "RelativeToolTip": "JWTAuth\\JWTAuth.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T06:47:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth\\appsettings.json",
+              "RelativeToolTip": "JWTAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T06:46:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\DependencyRegistrar.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\DependencyRegistrar.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\DependencyRegistrar.cs",
+              "RelativeToolTip": "JWTAuth.Core\\DependencyRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:51:53.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWTAuth.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:53:49.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\UserRepo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Repositories\\UserRepo\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\UserRepo\\UserRepository.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Repositories\\UserRepo\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:59:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "JWTAuth.Data\\DependencyInjection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:21:20.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DependencyInjection.cs",
+              "RelativeToolTip": "JWTAuth.Bussiness\\DependencyInjection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:52:53.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TypeFinder.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\TypeFinders\\TypeFinder.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\TypeFinders\\TypeFinder.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\TypeFinders\\TypeFinder.cs",
+              "RelativeToolTip": "JWTAuth.Core\\TypeFinders\\TypeFinder.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAxwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:15:51.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Entities\\User.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:49:57.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\DependencyInjection\\IDependencyInjection.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\DependencyInjection\\IDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\DependencyInjection\\IDependencyInjection.cs",
+              "RelativeToolTip": "JWTAuth.Core\\DependencyInjection\\IDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:50:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250423141506_init.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Migrations\\20250423141506_init.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Migrations\\20250423141506_init.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Migrations\\20250423141506_init.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Migrations\\20250423141506_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:15:06.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250423142855_init2.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Migrations\\20250423142855_init2.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Migrations\\20250423142855_init2.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Migrations\\20250423142855_init2.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Migrations\\20250423142855_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:28:55.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JWTAuth.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\JWTAuth.Core.csproj",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\JWTAuth.Core.csproj",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\JWTAuth.Core.csproj",
+              "RelativeToolTip": "JWTAuth.Core\\JWTAuth.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T12:33:36.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:50:51.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JWTAuth.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\JWTAuth.Data.csproj",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\JWTAuth.Data.csproj",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\JWTAuth.Data.csproj",
+              "RelativeToolTip": "JWTAuth.Data\\JWTAuth.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T13:39:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITypeFinder.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\TypeFinders\\ITypeFinder.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Core\\TypeFinders\\ITypeFinder.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Core\\TypeFinders\\ITypeFinder.cs",
+              "RelativeToolTip": "JWTAuth.Core\\TypeFinders\\ITypeFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:13:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRefreshTokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\RefreshTokenRepo\\IRefreshTokenRepo.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Repositories\\RefreshTokenRepo\\IRefreshTokenRepo.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\RefreshTokenRepo\\IRefreshTokenRepo.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Repositories\\RefreshTokenRepo\\IRefreshTokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:11:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RefreshTokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\RefreshTokenRepo\\RefreshTokenRepo.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Repositories\\RefreshTokenRepo\\RefreshTokenRepo.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\RefreshTokenRepo\\RefreshTokenRepo.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Repositories\\RefreshTokenRepo\\RefreshTokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:13:59.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\UserRepo\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Data\\Repositories\\UserRepo\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Data\\Repositories\\UserRepo\\IUserRepository.cs",
+              "RelativeToolTip": "JWTAuth.Data\\Repositories\\UserRepo\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:57:59.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JWTAuth.Bussiness.csproj",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj",
+              "RelativeToolTip": "JWTAuth.Bussiness\\JWTAuth.Bussiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T11:52:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "JWTAuth.Bussiness\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:53:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\Authentication\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Bussiness\\Authentication\\IAuthManager.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Bussiness\\Authentication\\IAuthManager.cs",
+              "RelativeToolTip": "JWTAuth.Bussiness\\Authentication\\IAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:54:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "JWTAuth.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\TanmaysinhGharia\\source\\repos\\JWTAuth\\JWTAuth.Services\\Class1.cs",
+              "RelativeToolTip": "JWTAuth.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:55:15.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
