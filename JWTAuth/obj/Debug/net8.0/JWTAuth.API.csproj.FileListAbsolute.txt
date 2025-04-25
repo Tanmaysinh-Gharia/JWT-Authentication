@@ -162,6 +162,7 @@ C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\JWTAuth.
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\JWTAuth.API.csproj.CoreCompileInputs.cache
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\JWTAuth.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\JWTAuth.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\JWTAuth.API.sourcelink.json
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\scopedcss\bundle\JWTAuth.API.styles.css
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth\obj\Debug\net8.0\staticwebassets.development.json

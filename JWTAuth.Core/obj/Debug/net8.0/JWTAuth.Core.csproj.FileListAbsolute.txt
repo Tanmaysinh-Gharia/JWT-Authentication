@@ -6,6 +6,7 @@ C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWT
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.AssemblyInfoInputs.cache
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.AssemblyInfo.cs
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.csproj.CoreCompileInputs.cache
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.sourcelink.json
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.dll
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\refint\JWTAuth.Core.dll
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Core\obj\Debug\net8.0\JWTAuth.Core.pdb

@@ -14,6 +14,7 @@ C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\JWTA
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\JWTAuth.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\JWTAuth.Web.RazorAssemblyInfo.cache
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\JWTAuth.Web.RazorAssemblyInfo.cs
+C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\JWTAuth.Web.sourcelink.json
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\scopedcss\bundle\JWTAuth.Web.styles.css
 C:\Users\TanmaysinhGharia\source\repos\JWTAuth\JWTAuth.Web\obj\Debug\net8.0\scopedcss\projectbundle\JWTAuth.Web.bundle.scp.css
